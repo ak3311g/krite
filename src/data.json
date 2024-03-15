@@ -1,0 +1,282 @@
+{
+    "teams": [
+        {
+            "name": "Design Team",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                },
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ]
+        },
+        {
+            "name": "Development Team",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ]
+        },
+        {
+            "name": "Marketing Team",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Product",
+            "icon": "faPlus",
+            "sub":[
+                {
+                    "name": "Roadmap"
+                },
+                {
+                    "name": "Feedback"
+                },
+                {
+                    "name": "Performance"
+                },
+                {
+                    "name": "Team"
+                },
+                {
+                    "name": "Analytics"
+                }
+            ]
+        },
+        {
+            "name": "Sales",
+            "icon": "faPlus",
+            "sub":[
+                {
+                    "name": "Leads"
+                },
+                {
+                    "name": "Opportunities"
+                },
+                {
+                    "name": "Pipeline"
+                },
+                {
+                    "name": "Analytics"
+                }
+            ]
+        },
+        {
+            "name": "Design",
+            "icon": "faPlus",
+            "sub":[
+                {
+                    "name": "UI/UX"
+                },
+                {
+                    "name": "Graphics"
+                },
+                {
+                    "name": "Templates"
+                },
+                {
+                    "name": "Analytics"
+                }
+            ]
+        },
+        {
+            "name": "Office",
+            "icon": "faPlus",
+            "sub":[
+                {
+                    "name": "HR"
+                },
+                {
+                    "name": "Finance"
+                },
+                {
+                    "name": "Legal"
+                },
+                {
+                    "name": "Analytics"
+                }
+            ]
+        },
+        {
+            "name": "Legal",
+            "icon": "faPlus",
+            "sub":[
+                {
+                    "name": "Contracts"
+                },
+                {
+                    "name": "Agreements"
+                },
+                {
+                    "name": "Policies"
+                },
+                {
+                    "name": "Analytics"
+                }
+            ]
+        }
+    ],
+    "brands":[
+        {
+            "name": "Wix",
+            "icon": "faPlus",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "in 30 minutes"
+        },
+        {
+            "name": "Shopify",
+            "icon": "fa fa-shopify",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "Tomorrow"
+        },
+        {
+            "name": "Shopify",
+            "icon": "fa fa-shopify",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                },
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                },
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "Tomorrow"
+        },
+        {
+            "name": "Shopify",
+            "icon": "fa fa-shopify",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "In 6 hours"
+        },
+        {
+            "name": "Shopify",
+            "icon": "fa fa-shopify",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "No contact"
+        },
+        {
+            "name": "Shopify",
+            "icon": "fa fa-shopify",
+            "selected": false,
+            "description": "Develop a personalized fitness plan for your clients. Track their progress and communicate with them in real time.",
+            "members":[
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                },
+                {
+                    "name": "John Doe",
+                    "email": "abc@abc.com"
+                }
+            ],
+            "categories": [
+                "Automation",
+                "Fitness"
+            ],
+            "tags": [
+                "Personal Trainer",
+                "Fitness",
+                "Health",
+                "Wellness"
+            ],
+            "nextmeeting": "In 30 minutes"
+        }
+    ]
+}
